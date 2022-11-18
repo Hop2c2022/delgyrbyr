@@ -1,0 +1,96 @@
+.img {
+  position: absolute;
+  width: 100%;
+  z-index: -11;
+}
+.h1 {
+  margin-top: 0;
+  padding-top: 5vh;
+  font-size: 55px;
+  color: white;
+}
+.txt1 {
+  font-size: 70px;
+  color: white;
+}
+.contain {
+  display: flex;
+  flex-direction: column;
+  width: 35vw;
+  height: 50vh;
+  padding-left: 13vw;
+  padding-top: 8vh;
+}
+.txt2 {
+  width: 23vw;
+  font-size: 28px;
+  color: white;
+  margin-top: 0px;
+}
+.input {
+  background: #FFFFFF;
+  border: 2px solid #BBC8D4;
+  border-radius: 4px;
+  height: 56px;
+  width: 340px;
+  font-size: 24px;
+  padding-left: 1vw;
+  margin-top: 8vh;
+  padding-bottom: 2px;
+}
+.buts {
+  height: 62px;
+  width: 163px;
+  border-radius: 4px;
+  background: #0BBEF2;
+  color: #FFFFFF;
+  font-size: large;
+  border: none;
+  margin-left: 20px;
+  margin-top: 8vh;
+}
+.smolcont {
+  display: flex;
+  align-items: center;
+}
+.hom {
+  display: flex;
+  flex-direction: row;
+}
+.login {
+  font-size: 19px;
+  color: #FFFFFF;
+  border-radius: 6px;
+  padding: 20px;
+  margin-right: 1.2vw;
+  text-decoration: underline;
+  text-decoration-color: grey;
+}
+.naver {
+  margin-left: 10vw;
+  margin-top: 2.5vh;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+}
+.logi {
+  font-size: 19px;
+  color: #FFFFFF;
+  border-radius: 6px;
+  padding: 20px;
+  border: white 2px solid;
+  border-radius: 6px;
+  text-decoration: underline;
+  text-decoration-color: grey;
+}
+.h2 {
+  margin-top: 0;
+  padding-top: 5vh;
+  font-size: 55px;
+  color: #0BBEF2;
+}
+.h11 {
+  display: flex;
+  padding-left: 13vw;
+}

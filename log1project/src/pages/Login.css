@@ -1,0 +1,59 @@
+ body {
+    background-color: aliceblue;
+ }
+ .Appp {
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+  }
+  .qwerty {
+    font-size: 70px;
+    margin-top: 8vh;
+    display: flex;
+    justify-content: center;
+  }
+  .tup {
+    display: flex;
+    flex-direction: column;
+  }
+  .ui {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    width: 20vw;
+    margin-top: 20px;
+  }
+  input {
+    margin-top: 8px;
+    height: 3.4vh;
+  }
+  .werty {
+    margin-top: 4vh;
+    border: black 1px solid;
+    width: 6vw;
+    height: 4vh;
+    font-size: larger;
+    color: white;
+    background-color: rosybrown;
+  }
+  .werty:hover {
+    color: black;
+    background-color: blanchedalmond;
+  }
+  .ghjk {
+    display: flex;
+    flex-direction: row;
+  } 
+  .zxcvbnm {
+    margin-top: 4vh;
+    margin-left: 4vw;
+  }
+  .za {
+    margin-left: 0.5vw;
+  }
+  .f {
+    padding-left: 0.5vw;
+  }
+  .signp{
+    font-size: 70px;
+  }
